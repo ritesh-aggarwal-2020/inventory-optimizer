@@ -66,12 +66,12 @@ streamlit run streamlit_app.py
 
 ## Architecture
 
-![Architecture](docs/architecture_diagram.png)
+![Architecture](Docs/architecture_diagram.png)
 
 
 ## Inventory Calculation Flow
 
-![Process Flow](docs/calculation_flowchart.png)
+![Process Flow](Docs/calculation_flowchart.png)
 
 ## Sample Output
-![Sample_output](docs/Sample_output.csv)
+![Sample_output](Docs/Sample_output.csv)
