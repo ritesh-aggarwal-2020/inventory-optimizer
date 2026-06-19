@@ -61,3 +61,17 @@ streamlit run streamlit_app.py
 - NumPy
 - SciPy
 - Streamlit
+
+
+
+## Architecture
+
+![Architecture](docs/architecture_diagram.png)
+
+
+## Inventory Calculation Flow
+
+![Process Flow](docs/calculation_flowchart.png)
+
+## Sample Output
+![Sample_output](docs/Sample_output.csv)
